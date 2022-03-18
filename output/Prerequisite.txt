@@ -1,2 +1,0 @@
-!pip install apache_beam
-!pip install apache-beam[gcp]
